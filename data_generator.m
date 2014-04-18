@@ -8,6 +8,7 @@ deviation = 0.05;
 
 points_x = zeros(n_points, 1);
 points_y = zeros(n_points, 1);
+%I'm adding a line! 
 
 point_index = 1;
 
